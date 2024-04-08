@@ -11,7 +11,7 @@ Arts System's é uma empresa de tecnologia dedicada a fornecer soluções inovad
 - **Manutenção de Hardware e Software:** Mantenha seus sistemas operando com eficiência máxima com nossos serviços de manutenção de hardware e software.
 - **Configuração de Servidores na Nuvem:** Aproveite os benefícios da computação em nuvem com nossa expertise em configuração e gerenciamento de servidores na nuvem.
 
-### Our Sebsite
+### Nosso Site
 
 <div style="display: inline_block">
   <a href="[http://guilhermeantunes.epizy.com/](https://artssystem.com.br)" target="_blank"><img align="center" alt="portfolio" height="40" width="80" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" /></a>
